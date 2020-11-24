@@ -1,0 +1,380 @@
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.exe
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csprojAssemblyReference.cache
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfoInputs.cache
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfo.cs
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.deps.json
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.json
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.dev.json
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CopyComplete
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\rodrigo\source\repos\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.exe
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.deps.json
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.json
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CopyComplete
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\Usuario\Desktop\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.genruntimeconfig.cache
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.exe
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.deps.json
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.json
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.dev.json
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csprojAssemblyReference.cache
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfoInputs.cache
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfo.cs
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CopyComplete
+C:\Users\rodrigo\Desktop\JuegoSFML (2)\JuegoSFML\JuegoSFML\obj\Debug\netcoreapp3.1\JuegoSFML.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.exe
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.deps.json
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\Usuario\Desktop\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\Usuario\Desktop\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\Usuario\Desktop\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\Usuario\Desktop\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\probemos\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\probemos\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\probemos\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\probemos\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\probemos\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.exe
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.deps.json
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.json
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\JuegoSFML.pdb
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Audio.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Graphics.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-System.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-Window.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Audio.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Graphics.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-System.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-Window.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\Usuario\Desktop\probemos\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.csproj.CopyComplete
+C:\Users\Usuario\Desktop\probemos\Pong-master\obj\Debug\netcoreapp3.1\JuegoSFML.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JuegoSFML": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Usuario\\Desktop\\probemos\\Pong-master"
+    }
+  }
+}
