@@ -22,5 +22,9 @@ namespace JuegoSFML
             get; set;
         }
 
+        public Keyboard.Key Probando
+        {
+            get; set;
+        }
     }
 }
